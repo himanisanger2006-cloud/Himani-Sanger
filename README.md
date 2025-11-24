@@ -187,6 +187,9 @@ Risk %: 2%
 Entry: ₹900
 
 Stop-Loss: ₹880
+<img width="976" height="344" alt="Screenshot 2025-11-24 111537" src="https://github.com/user-attachments/assets/b24cb6b9-c00e-42b5-bc9f-facdd6c7110a" />
+<img width="1076" height="386" alt="Screenshot 2025-11-24 111557" src="https://github.com/user-attachments/assets/c61cdeec-c92a-4c83-bd4b-628c1042a775" />
+<img width="1004" height="325" alt="Screenshot 2025-11-24 111609" src="https://github.com/user-attachments/assets/d98bd9c7-2a90-4b1e-8dac-00540b03a7c4" />
 
 📬 Contact
 

@@ -148,8 +148,47 @@ If you’re serious about trading, then systematic risk management is not option
 
 Contributions are welcome!
 Submit issues, requests, or pull-requests to improve the project.
+Example 1: Manual Mode
+User Input
 
+Portfolio Value: ₹1,00,000
+
+Risk % per Trade: 1%
+
+Entry Price: ₹250
+
+Stop-Loss Price: ₹240
+
+ATR: 5
+
+ATR Multiplier: 2
+
+Risk Model: Fixed % Model
+Defaults used by program:
+
+Portfolio Value: ₹2,00,000
+
+Entry Price: ₹150
+
+Stop-Loss: ₹145
+
+ATR: 4
+
+ATR Multiplier: 1.5
+
+Risk Model: ATR Model
+Example 3: Fixed % Model (Different Inputs)
+User Input
+
+Portfolio: ₹50,000
+
+Risk %: 2%
+
+Entry: ₹900
+
+Stop-Loss: ₹880
 📬 Contact
 
 For collaboration and support:
 your-email@example.com
+ 

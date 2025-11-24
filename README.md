@@ -187,6 +187,7 @@ Risk %: 2%
 Entry: ₹900
 
 Stop-Loss: ₹880
+
 📬 Contact
 
 For collaboration and support:
